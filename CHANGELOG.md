@@ -9,3 +9,4 @@
 - docs: link the usage section
 - fix: add a note about the defaults
 - docs: link the usage section
+- docs: clarify the setup steps
